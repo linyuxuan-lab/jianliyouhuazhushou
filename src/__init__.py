@@ -1,0 +1,1 @@
+"""Resume optimization assistant package."""
